@@ -21,7 +21,7 @@ spec:
     spec: 
       containers: 
       - name: incident-portal 
-        image: ghcr.io/sirkwabenankansah/incident-app:v1.0 
+        image: ghcr.io/sirkwabenankansah/incident-app:v2.0 
         ports: 
         - containerPort: 80 
         resources: 
